@@ -1,0 +1,56 @@
+/* STUDENT CODE EXERCISE
+--------------------------------------*/
+section.exercise p.second {
+	color:firebrick;
+	background: white;
+}
+
+section.exercise p.fourth {
+    color: blueviolet;
+    background: white;
+}
+
+section.exercise p.sixth {
+    color: cornflowerblue;
+    background: white;
+}
+
+
+
+
+/* MAIN PAGE STYLES 
+--------------------------------------*/
+body {
+	background-color:#caebff;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 200%;
+    text-align: center;
+    margin-top: .5em;
+}
+
+main {
+    padding: 1em 2em;
+    margin-top: 65px;
+}
+
+section.exercise p {
+	font-size: 125%;
+	color: #555555;
+	background-color: #ccc;
+	margin: 10px 0;
+	padding: .75em 0 .75em .5em;
+    border-radius: .75em;
+    border: 1px solid #818181;
+}
+
+code {
+	font-size: 125%;
+	font-weight: bold;
+}
+
+.intro {
+	font-size: 120%;
+}
