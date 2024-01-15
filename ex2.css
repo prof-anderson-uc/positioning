@@ -1,13 +1,13 @@
 /* MAIN PAGE STYLES
 ----------------------------------------------*/
 body {
-	background-color:#caebff;
-    font-size: 115%;
-    line-height: 130%;
+	background-color: #caebff;
+	font-size: 115%;
+	line-height: 1.3;
 }
 
 p {
-	margin: 0 0 1em 0;
+	margin: 0 0 1rem 0;
 }
 
 code {
@@ -17,18 +17,16 @@ code {
 /* STUDENT CODE EXERCISE
 ----------------------------------------------*/
 section.inner {
-	font-family:"Lucida Grande", Verdana, "sans-serif" ; 
-	background-color:#DDDDDD;
+	font-family: "Lucida Grande", Verdana, "sans-serif";
+	background-color: #DDDDDD;
 	border: 2px solid #676565;
-	padding: .5em;
+	padding: .5rem;
 }
 
 section.outer {
 	width: 500px;
 	height: 300px;
-	margin:200px 40px; 
-	border:5px solid crimson;
+	margin: 200px 40px;
+	border: 5px solid crimson;
 	background-color: white;
 }
-
-

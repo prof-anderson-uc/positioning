@@ -1,18 +1,18 @@
 /* STUDENT CODE EXERCISE
 --------------------------------------*/
 section.exercise p.second {
-	color:firebrick;
+	color: firebrick;
 	background: white;
 }
 
 section.exercise p.fourth {
-    color: blueviolet;
-    background: white;
+	color: blueviolet;
+	background: white;
 }
 
 section.exercise p.sixth {
-    color: cornflowerblue;
-    background: white;
+	color: cornflowerblue;
+	background: white;
 }
 
 
@@ -21,19 +21,19 @@ section.exercise p.sixth {
 /* MAIN PAGE STYLES 
 --------------------------------------*/
 body {
-	background-color:#caebff;
+	background-color: #caebff;
 	font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
-    font-size: 200%;
-    text-align: center;
-    margin-top: .5em;
+	font-size: 200%;
+	text-align: center;
+	margin-top: .5rem;
 }
 
 main {
-    padding: 1em 2em;
-    margin-top: 65px;
+	padding: 1rem 2rem;
+	margin-top: 65px;
 }
 
 section.exercise p {
@@ -41,9 +41,9 @@ section.exercise p {
 	color: #555555;
 	background-color: #ccc;
 	margin: 10px 0;
-	padding: .75em 0 .75em .5em;
-    border-radius: .75em;
-    border: 1px solid #818181;
+	padding: .75rem 0 .75rem .5rem;
+	border-radius: .75rem;
+	border: 1px solid #818181;
 }
 
 code {
